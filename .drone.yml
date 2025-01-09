@@ -4,6 +4,5 @@ name: hello-world
 
 steps:
   - name: say-hello
-    image: alpine:latest
     commands:
-      - echo "Hello, World!"
+      - echo "Ouga bouga, hello world !"
